@@ -1,6 +1,6 @@
 package repositories;
 
-import data.interfaceces.IDB;
+import data.interfaces.IDB;
 import models.User;
 import repositories.interfaces.IUserRepository;
 

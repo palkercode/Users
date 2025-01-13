@@ -1,7 +1,7 @@
 import controllers.UserController;
 import controllers.interfaces.IUserController;
 import data.PostgresDB;
-import data.interfaceces.IDB;
+import data.interfaces.IDB;
 import repositories.UserRepository;
 import repositories.interfaces.IUserRepository;
 
